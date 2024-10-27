@@ -1,6 +1,12 @@
 ## Bootcamp:
 Exercícios feitos para treinar Java.
 
+## Ordem de dificuldade:
+- Salários;
+- Circunferência;
+- Temperatura;
+- FatorialFibonacci;
+
 > [!NOTE]
 > Ferramentas utilizadas: \
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
