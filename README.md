@@ -2,6 +2,7 @@
 Exercícios feitos para treinar Java.
 
 ## Ordem de dificuldade:
+Códigos do bootcamp, do mais fácil ao mais difícil.
 - Salários;
 - Circunferência;
 - Temperatura;
